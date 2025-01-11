@@ -1,0 +1,48 @@
+.div1 {
+  background-color: yellow;
+  border: 6px red solid;
+  padding: 20px;
+  border-radius: 15px;
+}
+.h1{
+  background-color: black;
+  color: white;
+  border: 5px green solid;
+  border-radius: 10px;
+  height: 55px;
+  padding: 10px;
+ margin: 10px; 
+
+}
+.h2{
+  background-color: black;
+  color: white;
+  border: blue 5px dotted;
+  padding: 10px;
+  margin: 10px;
+
+}
+.h3{
+  background-color: black;
+  color: white;
+  border: dashed 5px red;
+  padding: 10px;
+  margin: 10px;
+}
+.p1{
+  background-color: yellow;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+}
+.b1{
+  background-color: red;
+  border: 3px white solid; margin: 10px;
+  
+}
+.a{
+  background-color: black;
+  border: 10px blue solid;
+  border-radius: 10px;
+  margin-top: 10px;
+}
