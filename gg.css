@@ -4,45 +4,60 @@
   padding: 20px;
   border-radius: 15px;
 }
-.h1{
+.h1 {
   background-color: black;
   color: white;
   border: 5px green solid;
   border-radius: 10px;
   height: 55px;
   padding: 10px;
- margin: 10px; 
-
+  margin: 10px;
 }
-.h2{
+.h2 {
   background-color: black;
   color: white;
   border: blue 5px dotted;
   padding: 10px;
   margin: 10px;
-
 }
-.h3{
+.h3 {
   background-color: black;
   color: white;
   border: dashed 5px red;
   padding: 10px;
   margin: 10px;
 }
-.p1{
+.p1 {
   background-color: yellow;
   padding: 10px;
   border-radius: 10px;
   margin: 10px;
 }
-.b1{
+.b1 {
   background-color: red;
-  border: 3px white solid; margin: 10px;
-  
+  border: 3px white solid;
+  margin: 10px;
 }
-.a{
+.a {
   background-color: black;
   border: 10px blue solid;
   border-radius: 10px;
   margin-top: 10px;
+}
+.div2 {
+  display: flex;
+  background-color: green;
+  padding: 2px;
+  border-radius: 15px;
+  margin-top: 10px;
+  gap: 50px;
+}
+.ul4 {
+  background-color: red;
+  border-radius: 10px;
+}
+ol {
+  background-color: blue;
+  border-radius: 10px;
+  /* margin-left: 5px; */
 }
